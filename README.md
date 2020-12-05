@@ -1,2 +1,1 @@
-# stack-from-scratch
-Stack implementation in Python without using inbuild packages.
+# Stack implementation in Python without using inbuild packages.
